@@ -21,8 +21,10 @@ to learn and implement Python programming for various business-related tasks.
 * g++
 
 ## Install linux-debian-based-OS prerequisites
-After download with this command, reboot your system. <br> 
+After download with this command, reboot your system.
+
 $ ```sudo apt update``` 
+ 
 $ ```sudo apt install build-essential libtool autoconf automake pkg-config libnfc-dev libnfc-bin pcscd g++```
 
 ## Install sensor driver prerequisites for debian
