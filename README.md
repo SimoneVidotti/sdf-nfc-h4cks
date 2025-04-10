@@ -25,7 +25,9 @@ After download with this command, reboot your system.
 
 $ ```sudo apt update``` 
  
-$ ```sudo apt install build-essential libtool autoconf automake pkg-config libnfc-dev libnfc-bin pcscd g++```
+$ ```sudo apt install build-essential libtool autoconf automake pkg-config libnfc-dev libnfc-bin pcscd```
+
+$ ```sudo apt install g++```
 
 ## Install sensor driver prerequisites for debian
 $ ``` ```
