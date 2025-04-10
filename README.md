@@ -21,7 +21,7 @@ to learn and implement Python programming for various business-related tasks.
 * g++
 
 ## Install linux-debian-based-OS prerequisites
-After download with this command, reboot your system.
+After downloads, reboot your system.
 
 $ ```sudo apt update``` 
  
