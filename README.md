@@ -1,9 +1,13 @@
 # anoteam-ACR122U-nfc-tool 
 
 ## Description
-This repository contains a collection of Python scripts focused on business administration. 
-The goal of this repository is to provide a comprehensive resource for business administrators, analysts, and students 
-to learn and implement Python programming for various business-related tasks.
+This NFC tool, developed by anoteam, is designed for ethical hacking purposes. It allows users to interact with and analyze NFC-enabled devices such as MyKey,
+credit cards, and badges. The tool leverages libraries like libnfc to facilitate communication with NFC hardware, enabling security assessments 
+and testing of authentication systems.
+
+## Disclaimer
+This tool is intended for educational and ethical hacking purposes only. 
+The anoteam does not take any responsibility for the misuse of this tool or any consequences arising from its use.
 
 ## Prerequisites
 * Linux-debian-based-OS terminal
